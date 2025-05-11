@@ -1,0 +1,35 @@
+.agendamento {
+  padding: 3rem 2rem;
+  max-width: 500px;
+  margin: auto;
+}
+
+.agendamento h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+form input, form button {
+  padding: 0.9rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+form button {
+  background-color: #111;
+  color: white;
+  font-weight: bold;
+  transition: background 0.3s;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #f0a500;
+}

@@ -1,0 +1,23 @@
+.contato {
+  padding: 3rem 2rem;
+  max-width: 600px;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.contato h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.contato-info p {
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+}
+
+.contato-info strong {
+  color: #000;
+}
